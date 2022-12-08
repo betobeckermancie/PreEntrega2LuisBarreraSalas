@@ -1,0 +1,11 @@
+/*ajuste predeterminado*/
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*Cambiamos el color a los titlos de la tarjeta*/
+.card-title {
+    color: rgb(255, 1, 255);
+}
+
